@@ -1,4 +1,4 @@
-# Advancing-Dara-Analysis-and-Visualizations-on-Jupyter-Notebook
+# Advancing-Data-Analysis-and-Visualizations-on-Jupyter-Notebook
 # Practising and Advancing Data Analysis and Visualization with My Notes (IBM Resources)
 
 # Data Analysis
